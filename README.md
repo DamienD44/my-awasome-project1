@@ -6,3 +6,7 @@ Je remodifie le projet pour le commit sur github et valider l'exercice
 
 
 Git is my best friend
+
+Nouveau test pour avoir 2 commits
+
+
